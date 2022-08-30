@@ -8,8 +8,7 @@
 </div>
 
 ### :man_technologist: About Me :
-- :telescope: Learning JAVA since March 2022.
-- :small_airplane: In my free time I do FPV, drones, soldering, taking photos (and MF film) and videos.
+- :telescope: Learning JAVA since March 2022. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santi15355&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
