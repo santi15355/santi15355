@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="600" height="300"/>
+  <img src="https://github.com/santi15355/santi15355/blob/main/%D0%B0%D0%B2%D0%B02.jpg" width="600" height="600"/>
 </div>
 
 ### :man_technologist: About Me :
