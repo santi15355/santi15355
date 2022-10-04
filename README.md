@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Vasiliy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> Junior JAVA from Russia 🇷🇺</h3>
+<h3 align="center"> Junior JAVA from Russia</h3>
 
 
 <div align="center">
-  <img src="https://github.com/santi15355/santi15355/blob/main/%D0%B0%D0%B2%D0%B02.jpg" width="600" height="600"/>
+  <img src="https://github.com/santi15355/santi15355/blob/main/1664904206540.jpg" width="388" height="600"/>
 </div>
 
 ### :man_technologist: About Me :
