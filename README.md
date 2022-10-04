@@ -8,7 +8,11 @@
 </div>
 
 ### :man_technologist: About Me :
-- :telescope: Learning JAVA since March 2022. 
+- :telescope: Learning JAVA since March 2022.
+- :runner: 34 years old
+- :mortar_board: Higher education
+
+![](https://komarev.com/ghpvc/?username=santi15355)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santi15355&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
