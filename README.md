@@ -2,11 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> Junior JAVA from Russia</h3>
 
-
-<div align="center">
-  <img src="https://github.com/santi15355/santi15355/blob/main/1664904206540.jpg" width="388" height="600"/>
-</div>
-
 ### :man_technologist: About Me :
 - :telescope: Learning JAVA since March 2022.
 - :runner: 34 years old
