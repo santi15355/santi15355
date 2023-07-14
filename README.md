@@ -4,7 +4,7 @@
 
 ### :man_technologist: About Me :
 - :telescope: Learning JAVA since March 2022.
-- :runner: 34 years old
+- :runner: 35 years old
 - :mortar_board: Higher education
 - Telegram: @santi15355
 - i@vchobot.ru
