@@ -4,10 +4,11 @@
 
 ### :man_technologist: About Me :
 - :telescope: Learning JAVA since March 2022.
-- :runner: 35 years old
-- :mortar_board: Higher education
+- :runner: 36 years old
+- :mortar_board: Master's level engineering degree
 - Telegram: @santi15355
-- i@vchobot.ru
+- me@cheezeek.ru
+- my own git based on gitea https://usedcloud.ru/
 
 ![](https://komarev.com/ghpvc/?username=santi15355)
 
