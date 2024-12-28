@@ -8,7 +8,6 @@
 - :mortar_board: Master's level engineering degree
 - Telegram: @santi15355
 - me@cheezeek.ru
-- my own git based on gitea https://usedcloud.ru/
 
 ![](https://komarev.com/ghpvc/?username=santi15355)
 
